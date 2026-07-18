@@ -1,4 +1,4 @@
-# Hi, I'm R.Will 👋
+# R.Will
 
 ### AI & Full-Stack Developer
 
