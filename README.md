@@ -38,11 +38,4 @@ I build practical software around **computer vision**, **intelligent automation*
   />
 </p>
 
-<p align="center">
-  <img
-    width="60%"
-    src="https://raw.githubusercontent.com/Rwill03/Rwill03/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
-    alt="Repositories per language"
-  />
-</p>
 <sub>Currently focused on reliable AI applications, computer vision, and software that is easy to ship and maintain.</sub>
