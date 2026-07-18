@@ -17,7 +17,7 @@ I build practical software around **computer vision**, **intelligent automation*
 | **[SideAI](https://github.com/Rwill03/SideAI)**           | Sandboxed desktop agents with live execution views     | FastAPI · React · E2B · WebSockets      |
 | **[FreeSeek](https://github.com/Rwill03/FreeSeek)**       | Safer freelance job discovery and proposal automation  | Python · React · Playwright · SQLite    |
 
-## Toolbox
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
