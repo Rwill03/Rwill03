@@ -30,22 +30,19 @@ I build practical software around **computer vision**, **intelligent automation*
 
 ## GitHub Activity
 
-## GitHub Activity
-
 <p align="center">
   <img
     width="100%"
     src="https://raw.githubusercontent.com/Rwill03/Rwill03/main/profile-summary-card-output/github_dark/0-profile-details.svg"
-    alt="R. Will GitHub profile details"
+    alt="R. Will GitHub activity overview"
   />
 </p>
 
 <p align="center">
   <img
-    width="49%"
+    width="60%"
     src="https://raw.githubusercontent.com/Rwill03/Rwill03/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
     alt="Repositories per language"
   />
- 
 </p>
 <sub>Currently focused on reliable AI applications, computer vision, and software that is easy to ship and maintain.</sub>
