@@ -1,87 +1,38 @@
-# Hi, I’m R.WIllRwill03 👋
+# Hi, I'm R.Will 👋
 
-I’m an AI and full-stack developer building practical software around computer vision, intelligent automation, local LLM applications, and production-oriented web systems.
+### AI & Full-Stack Developer
 
-## About Me
+I build practical software around **computer vision**, **intelligent automation**, **local LLMs**, and **production-ready web systems**.
 
-I enjoy combining AI models with usable web applications and APIs. My projects usually bring together inference, orchestration, dashboards, and deployment tooling so the software is not only interesting to build, but also straightforward to use.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://r-will-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-will-b05614271)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rwill03)
 
-I care about clean architecture, maintainability, deployment, and solving real problems with software that is easy to understand and extend.
+## Featured Work
 
-## Featured Projects
+| Project | What it does | Core stack |
+| --- | --- | --- |
+| **[Vision-Lane](https://github.com/Rwill03/Vision-Lane)** | Edge vehicle detection and 24-hour traffic forecasting | Python · FastAPI · PyTorch · PostgreSQL |
+| **[FreeScope](https://github.com/Rwill03/FreeScope)** | Local-LLM scope analysis for freelancers | Next.js · TypeScript · Ollama · Prisma |
+| **[SideAI](https://github.com/Rwill03/SideAI)** | Sandboxed desktop agents with live execution views | FastAPI · React · E2B · WebSockets |
+| **[FreeSeek](https://github.com/Rwill03/FreeSeek)** | Safer freelance job discovery and proposal automation | Python · React · Playwright · SQLite |
 
-### [Vision-Lane](https://github.com/Rwill03/Vision-Lane)
+## Toolbox
 
-A real-time traffic monitoring system that solves vehicle detection and traffic forecasting across an edge-to-server workflow.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-It uses a Rock5 camera pipeline to detect and count vehicles, sends observations to a VM backend, and feeds data into a Transformer model for 24-hour traffic predictions.
+## GitHub Activity
 
-Main technologies: Python, FastAPI, PostgreSQL, PyTorch, CUDA, Docker, JavaScript, HTML, CSS, RF-DETR, Transformer models.
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Rwill03&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="R.Will's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwill03&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</p>
 
-Technical highlight: edge inference and server-side forecasting are split into separate components, with a live dashboard for monitoring and prediction review.
-
-### [FreeScope](https://github.com/Rwill03/FreeScope)
-
-A freelancer-focused scope management tool that solves the problem of evaluating whether a new feature request is inside or outside an agreed contract.
-
-It analyzes project scope with a local LLM, classifies requests, and generates task breakdowns and pricing guidance for out-of-scope work.
-
-Main technologies: TypeScript, React, Next.js, Prisma, SQLite, Ollama, Tailwind CSS, Framer Motion.
-
-Technical highlight: the app runs local LLM evaluation through Ollama and returns structured JSON results for reliable downstream handling.
-
-### [SideAI](https://github.com/Rwill03/SideAI)
-
-An AI desktop-automation platform that solves real-time agent execution and visualization inside isolated desktop environments.
-
-It lets AI agents operate desktops through E2B sandboxes, streams activity live, and provides step-by-step execution views for research and debugging.
-
-Main technologies: Python, FastAPI, React, TypeScript, E2B, smolagents, WebSockets, Vite, Material UI, Zustand, Framer Motion, Docker.
-
-Technical highlight: the project combines sandboxed desktop control with live VNC streaming and trace export for agent workflows.
-
-### [FreeSeek](https://github.com/Rwill03/FreeSeek)
-
-A job-search automation tool that solves the time cost of finding freelance roles, filtering matches, and drafting tailored proposals.
-
-It scrapes job boards, filters opportunities by location and skills, generates proposals with an LLM, and can automate applications with browser automation.
-
-Main technologies: Python, React, Playwright, SQLite, Vite, Tailwind CSS, Groq, HuggingFace, APScheduler.
-
-Technical highlight: the workflow includes safety controls such as duplicate detection, daily limits, and business-hour scheduling.
-
-## Technical Skills
-
-**Languages**
-
-Python, TypeScript, JavaScript, HTML, CSS, Shell, Batchfile
-
-**Frontend**
-
-React, Next.js, Vite, Tailwind CSS, Material UI, Framer Motion, Zustand
-
-**Backend**
-
-FastAPI, Uvicorn, WebSockets, Prisma, APScheduler, REST APIs
-
-**AI and Machine Learning**
-
-Ollama, smolagents, PyTorch, CUDA, RF-DETR, Transformer models, local LLM workflows
-
-**Databases**
-
-PostgreSQL, SQLite
-
-**DevOps and Tools**
-
-Docker, Docker Compose, GitHub Actions, Playwright, Nginx, E2B
-
-## Current Focus
-
-I am currently improving AI-powered applications, computer vision systems, full-stack architecture, and the testing, deployment, and software quality practices that make projects easier to ship and maintain.
-
-## Contact
-
-- GitHub: [Rwill03](https://github.com/Rwill03)
-- LinkedIn: [R.WIllRwill03](https://www.linkedin.com/in/r-will-b05614271)
-- Portfolio: [r-will-portfolio.vercel.app](https://r-will-portfolio.vercel.app)
+<sub>Currently focused on reliable AI applications, computer vision, and software that is easy to ship and maintain.</sub>
