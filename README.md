@@ -10,12 +10,12 @@ I build practical software around **computer vision**, **intelligent automation*
 
 ## Featured Work
 
-| Project | What it does | Core stack |
-| --- | --- | --- |
+| Project                                                   | What it does                                           | Core stack                              |
+| --------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------- |
 | **[Vision-Lane](https://github.com/Rwill03/Vision-Lane)** | Edge vehicle detection and 24-hour traffic forecasting | Python · FastAPI · PyTorch · PostgreSQL |
-| **[FreeScope](https://github.com/Rwill03/FreeScope)** | Local-LLM scope analysis for freelancers | Next.js · TypeScript · Ollama · Prisma |
-| **[SideAI](https://github.com/Rwill03/SideAI)** | Sandboxed desktop agents with live execution views | FastAPI · React · E2B · WebSockets |
-| **[FreeSeek](https://github.com/Rwill03/FreeSeek)** | Safer freelance job discovery and proposal automation | Python · React · Playwright · SQLite |
+| **[FreeScope](https://github.com/Rwill03/FreeScope)**     | Local-LLM scope analysis for freelancers               | Next.js · TypeScript · Ollama · Prisma  |
+| **[SideAI](https://github.com/Rwill03/SideAI)**           | Sandboxed desktop agents with live execution views     | FastAPI · React · E2B · WebSockets      |
+| **[FreeSeek](https://github.com/Rwill03/FreeSeek)**       | Safer freelance job discovery and proposal automation  | Python · React · Playwright · SQLite    |
 
 ## Toolbox
 
@@ -30,9 +30,26 @@ I build practical software around **computer vision**, **intelligent automation*
 
 ## GitHub Activity
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Rwill03&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="R.Will's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwill03&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+## GitHub Activity
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/Rwill03/Rwill03/main/profile-summary-card-output/github_dark/0-profile-details.svg"
+    alt="R. Will GitHub profile details"
+  />
 </p>
 
+<p align="center">
+  <img
+    width="49%"
+    src="https://raw.githubusercontent.com/Rwill03/Rwill03/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Repositories per language"
+  />
+  <img
+    width="49%"
+    src="https://raw.githubusercontent.com/Rwill03/Rwill03/main/profile-summary-card-output/github_dark/3-stats.svg"
+    alt="GitHub statistics"
+  />
+</p>
 <sub>Currently focused on reliable AI applications, computer vision, and software that is easy to ship and maintain.</sub>
