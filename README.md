@@ -32,8 +32,7 @@ I build practical software around **computer vision**, **intelligent automation*
 
 <p align="center">
   <img
-    width="100%"
-    src="https://raw.githubusercontent.com/Rwill03/Rwill03/main/profile-summary-card-output/github_dark/0-profile-details.svg"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rwill03&theme=github_dark&animation=fade&duration=2"
     alt="R. Will GitHub activity overview"
   />
 </p>
